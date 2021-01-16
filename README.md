@@ -10,7 +10,7 @@ specified [here](https://pub.dev/packages/google_maps_flutter#-readme-tab-)
 ## Usage
 ```dart
 FormBuilderMapField(
-  attribute: 'Coordinates',
+  name: 'Coordinates',
   decoration: InputDecoration(labelText: 'Select Location'),
   markerIconColor: Colors.red,
   markerIconSize: 50,
